@@ -1,5 +1,5 @@
 # OSINT-Tools-Australia
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/800px-Flag_of_Australia_%28converted%29.svg.png" alt="Australia_FLAG"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg" alt="Australia_FLAG"/>
 
 A list of OSINT resources tools that may be useful to you when conducting investigations related to Australia. Based on:
 - Really cool but too detailed for this projest Australia's Largest Open Source Intelligence Repository [DFW1N-OSINT](https://github.com/DFW1N/DFW1N-OSINT)
